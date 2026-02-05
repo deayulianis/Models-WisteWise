@@ -1,4 +1,4 @@
-#🗑️ Waste Classification Using MobileNetV2
+# 🗑️ Waste Classification Using MobileNetV2
 ## Project Captone Coding Camp 2025
 
 Proyek ini bertujuan untuk membangun model klasifikasi jenis sampah berbasis citra menggunakan Deep Learning dengan arsitektur MobileNetV2. Model dirancang untuk mengidentifikasi jenis sampah dari gambar, kemudian mengelompokkannya ke dalam tiga kategori utama, yaitu Organik, Anorganik, dan B3 (Bahan Berbahaya dan Beracun).
